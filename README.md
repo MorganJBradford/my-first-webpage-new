@@ -11,7 +11,7 @@
 
 ## Description
 
-This webpage welcomes you to Morgan's first ever webpage, inviting you to read about the various programming languages that he will learn throughout his education at epicodus (see the list of languages for links). If you'd like to learn more about Morgan, feel free to checkout the links to pages about things he likes at the bottom of the home page.
+This webpage welcomes you to Morgan's first ever webpage, inviting you to read about the various programming languages that he will learn throughout his education at epicodus (see the list of languages for links to read about them). If you'd like to learn more about Morgan, feel free to checkout the links to pages about things he likes at the bottom of the home page.
 
 ## Setup/Installation Requirements
 
