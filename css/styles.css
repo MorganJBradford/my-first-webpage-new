@@ -34,3 +34,8 @@ ol {
   font-size: large;
   color: green;
 }
+#peeps {
+  max-height: 600px;
+  max-width: 600px;
+  position: relative;
+}
