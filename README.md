@@ -1,6 +1,6 @@
 # _My first webpage new_
 
-#### _A webpage about Morgan Bradford and his journey at Epicodus_
+#### _Morgan Bradford's first webpage_
 
 #### By _**Andrew Lawson and Morgan Bradford**_
 
@@ -11,29 +11,24 @@
 
 ## Description
 
-_Detailed description o.pithnmb.cpirhmarocpthubcag.bdpuiraphiap.i_
-
-_Instructions a.pithnbapcriughdantbanistam.rcpih_
+This webpage welcomes you to Morgan's first ever webpage, inviting you to read about the various programming languages that he will learn throughout his education at epicodus (see the list of languages for links). If you'd like to learn more about Morgan, feel free to checkout the links to pages about things he likes at the bottom of the home page.
 
 ## Setup/Installation Requirements
 
-Head to _gh-pages-link_.
-
-or
-
 1. Clone this repository.
 2. Navigate to the top level of the directory.
-3. Open index.html in your browser. 
+3. Open [index.html](index.html) in your browser. 
 
 ## Known bugs
 
-No known bugs at this time.
+* _No known issues at this time_
+* **If you notice any bugs, _please_ reach out to me via the contact information below**
 
-## license
+## License
 
-https://opensource.org/licenses/MIT
-_Don't forget to download this =)_
+[MIT](LICENSE.txt)
 
 ## Contact Information
 
-morganjbradford95@gmail.com
+_Andrew Lawson_: alawson89@gmail.com
+_Morgan Bradford_: morganjbradford@gmail.com
